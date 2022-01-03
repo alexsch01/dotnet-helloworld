@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/alex/Downloads/MyApp/MyApp.csproj": {}
+    "/home/alex/GitHub/dotnet-helloworld/MyApp.csproj": {}
   },
   "projects": {
-    "/home/alex/Downloads/MyApp/MyApp.csproj": {
+    "/home/alex/GitHub/dotnet-helloworld/MyApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/alex/Downloads/MyApp/MyApp.csproj",
+        "projectUniqueName": "/home/alex/GitHub/dotnet-helloworld/MyApp.csproj",
         "projectName": "MyApp",
-        "projectPath": "/home/alex/Downloads/MyApp/MyApp.csproj",
+        "projectPath": "/home/alex/GitHub/dotnet-helloworld/MyApp.csproj",
         "packagesPath": "/home/alex/.nuget/packages/",
-        "outputPath": "/home/alex/Downloads/MyApp/obj/",
+        "outputPath": "/home/alex/GitHub/dotnet-helloworld/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/alex/.nuget/NuGet/NuGet.Config"
